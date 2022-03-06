@@ -1,12 +1,32 @@
 {
 	"updates": {
-			"lh22": {
+
+
+		"99c8": {
+				"title" : "Family Mate",
+				"chapter": "12",
+				"thumb" : "images/thumb/fm.png",
+				"url" : "https://cubari.moe/read/gist/cmF3L3NiczAyMjMvc2JzL21haW4vZm0/",
+				"date" : "1645659189"
+			},
+
+
+		"99c8": {
+				"title" : "99.99% Lovers",
+				"chapter": "8",
+				"thumb" : "images/thumb/99.png",
+				"url" : "https://cubari.moe/read/gist/cmF3L3NiczAyMjMvc2JzL21haW4vOTk/",
+				"date" : "1646520056"
+			},
+
+			"lh21": {
 					"title" : "Love History Caused by Willful Negligence",
 					"chapter": "22",
 					"thumb" : "images/thumb/lh.png",
 					"url" : "https://cubari.moe/read/gist/cmF3L3NiczAyMjMvc2JzL21haW4vbGg/",
 					"date" : "1645646564"
 				},
+				
 			"leash17": {
 					"title" : "Don't Let Go of the Leash",
 					"chapter": "17",
