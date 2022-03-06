@@ -6,7 +6,7 @@
 				"title" : "Family Mate",
 				"chapter": "12",
 				"thumb" : "images/thumb/fm.png",
-				"url" : "https://cubari.moe/read/gist/cmF3L3NiczAyMjMvc2JzL21haW4vZm0/",
+				"url" : "/read.php?series=family-mate&chapter=12",
 				"date" : "1645659189"
 			},
 
@@ -15,15 +15,15 @@
 				"title" : "99.99% Lovers",
 				"chapter": "8",
 				"thumb" : "images/thumb/99.png",
-				"url" : "https://cubari.moe/read/gist/cmF3L3NiczAyMjMvc2JzL21haW4vOTk/",
+				"url" : "/read.php?series=99-99-lovers&chapter=8",
 				"date" : "1645659879"
 			},
 
 			"lh21": {
 					"title" : "Love History Caused by Willful Negligence",
-					"chapter": "22",
+					"chapter": "21",
 					"thumb" : "images/thumb/lh.png",
-					"url" : "https://cubari.moe/read/gist/cmF3L3NiczAyMjMvc2JzL21haW4vbGg/",
+					"url" : "/read.php?series=love-history&chapter=22",
 					"date" : "1645646564"
 				},
 				
@@ -31,7 +31,7 @@
 					"title" : "Don't Let Go of the Leash",
 					"chapter": "17",
 					"thumb" : "images/thumb/leash.png",
-					"url" : "https://cubari.moe/read/gist/cmF3L3NiczAyMjMvc2JzL21haW4vZGxnb3Rs/",
+					"url" : "/read.php?series=leash&chapter=16",
 					"date" : "1646091644"
 					}
 	}
