@@ -1,0 +1,72 @@
+{
+  "title": "Two Sions",
+  "description": "Daeho, who has a crush on his friend Sion, decides to be courageous and confess to Sion. But then Sion sneers at Daeho's confession which leads to the start of a violent relationship\nAfter being hurt by Sion, Daeho feels devastated by the book he was encouraged by to confess... But right at that moment, a strange light emanates from the book and takes Daeho to another world.",
+  "artist": "Hwamma Sirae",
+  "author": "Hwamma Sirae",
+  "cover": "https://uploads.mangadex.org/covers/c8463db1-7420-4f8d-9bd6-6b1cef009670/c041d026-2eeb-4f54-a7cf-e5463a82af92.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/Mrei9ci/"
+      },
+      "last_updated": "1626393600"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/NCzk7Ra/"
+      },
+      "last_updated": "1628208000"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/m9DrnvP/"
+      },
+      "last_updated": "1628208000"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/mrqgzOr/"
+      },
+      "last_updated": "1635120000"
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/lmvSAVn/"
+      },
+      "last_updated": "1637539200"
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/P2wXyvM/"
+      },
+      "last_updated": "1638144000"
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/bMKr4Xe/"
+      },
+      "last_updated": "1640304000"
+    }
+  }
+}

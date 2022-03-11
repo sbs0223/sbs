@@ -1,0 +1,27 @@
+{
+  "title": "Roses & Champagne",
+  "description": "Lee Won, who works as a poor lawyer in Russia, visits City Councilor Zdanov, who is in conflict over Nikolai's commission, and there he meets the mafia boss, Caesar. Behind City Councilor Zdanov, there was a mafia involved. The meeting between the two is extraordinary.",
+  "artist": "Ttung Gae",
+  "author": "Zig",
+  "cover": "https://uploads.mangadex.org/covers/b92b3fbd-c0f0-4d70-be50-887f2e0d5752/dfb73b3e-2a86-40ba-ae0e-1c0913a7e53d.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/3ZKricM/"
+      },
+      "last_updated": "1628467200"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/avGRfJ0/"
+      },
+      "last_updated": "1630195200"
+    }
+  }
+}

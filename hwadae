@@ -1,0 +1,18 @@
+{
+  "title": "Hwadae",
+  "description": "Novel adaptation",
+  "artist": "9999",
+  "author": "Hoya",
+  "cover": "https://cdn.discordapp.com/attachments/950772235843559424/951901306656784444/1.jpeg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/RV7dMV9/"
+      },
+      "last_updated": "1626393600"
+    }
+  }
+}
