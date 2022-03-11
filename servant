@@ -1,0 +1,18 @@
+{
+  "title": "The Servant",
+  "description": "In a quiet part of the country, there is a town with a grand symbolic mansion. Yeon-ho, a servant who was sold to this mansion by his father who ran away, works to pay off all the debt so he could one day be free. However, the family of that mansion suggests a dangerous relationship to Yeon-ho.",
+  "artist": "Honey Bread & Dumplings",
+  "author": "Honey Bread & Dumplings",
+  "cover": "https://cdn.discordapp.com/attachments/950772235843559424/951959162487701584/unknown.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/FPhviFA/"
+      },
+      "last_updated": "1624406400"
+    }
+  }
+}
