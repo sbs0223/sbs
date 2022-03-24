@@ -1,0 +1,81 @@
+{
+  "title": "Crow's Library of Danmei",
+  "description": "Wuya's anthology of short comics: A series of brilliant, suspenseful, and fantasy love stories.",
+  "artist": "Wuya",
+  "author": "Wuya",
+  "cover": "https://media.discordapp.net/attachments/950772235843559424/956426704119824434/unknown.png",
+  "chapters": {
+    "1": {
+      "title": "File.01 (1)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/Jcsb0qP/"
+      },
+      "last_updated": "1648128952"
+    },
+    "2": {
+      "title": "File.01 (2)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/WAr2hkY/"
+      },
+      "last_updated": "1648128952"
+    },
+    "3": {
+      "title": "File.01 (3)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/oGeOxbv/"
+      },
+      "last_updated": "1648128952"
+    },
+    "4": {
+      "title": "File.01 (4)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/SxpZuEZ/"
+      },
+      "last_updated": "1648128952"
+    },
+    "5": {
+      "title": "File.01 (5)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/BwRIYvl/"
+      },
+      "last_updated": "1648128952"
+    },
+    "6": {
+      "title": "File.01 (6)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/zXviwso/"
+      },
+      "last_updated": "1648128952"
+    },
+    "7": {
+      "title": "File.01 (7)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/D22QkoR/"
+      },
+      "last_updated": "1648128952"
+    },
+    "8": {
+      "title": "File.01 (8)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/zb6tAxJ/"
+      },
+      "last_updated": "1648128952"
+    }
+  }
+}
