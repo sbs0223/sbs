@@ -3,7 +3,7 @@
   "description": "An old elementary student who used to have a crush on me is now an intern at the company I work for?!\n\nManager Park Hyunsoo, who just dreamed about an incident that happened a long time ago, hears that the chairman's son is coming to work at the company as an intern.\nBut the tall and handsome intern 'Kang Joonwong' was the elementary student who confessed to him in the past?!\n\nRead the first chapter on MangaDex: https://kyaa.info/6177q",
   "artist": "Gwangko",
   "author": "Gwangko",
-  "cover": "https://uploads.mangadex.org/covers/07073045-0a13-4c6c-b2f8-0d124bacba37/f01d8b98-6a27-4dc2-8887-265baa308886.jpg.512.jpg",
+  "cover": "https://cdn.discordapp.com/attachments/950772235843559424/952396910709321828/leash_cover.png",
   "chapters": {
     "1": {
       "title": "Chapter 2",
@@ -12,7 +12,7 @@
         "Daisy":
         "/proxy/api/imgur/chapter/f2bCtT0/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1621742400"
     },
     "2": {
       "title": "Chapter 3",
@@ -21,7 +21,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/1pdMZch/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1622433600"
     },
     "3": {
       "title": "Chapter 4",
@@ -30,7 +30,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/wUQ9zW4/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1623643200"
     },
     "4": {
       "title": "Chapter 5",
@@ -39,8 +39,9 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/4LQaMSF/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1624248000"
     },
+
     "5": {
       "title": "Chapter 6",
       "volume": "1",
@@ -48,7 +49,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/4ZkiQbf/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1624766400"
     },
     "6": {
       "title": "Chapter 7",
@@ -57,7 +58,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/SCbDwTQ/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1625371200"
     },
     "7": {
       "title": "Chapter 8",
@@ -66,7 +67,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/ob2UwT4/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1626494400"
     },
     "8": {
       "title": "Chapter 9",
@@ -75,7 +76,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/0iuU4ua/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1627444800"
     },
     "9": {
       "title": "Chapter 10",
@@ -84,7 +85,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/rQn8IC5/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1629864000"
     },
     "10": {
       "title": "Chapter 11",
@@ -93,7 +94,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/LUQFTOH/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1636344000"
     },
     "11": {
       "title": "Chapter 12",
@@ -102,7 +103,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/5icsvJ5/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1637812800"
     },
     "12": {
       "title": "Chapter 13",
@@ -111,7 +112,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/YXu1fhr/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1638763200"
     },
     "13": {
       "title": "Chapter 14",
@@ -120,7 +121,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/9xqYCcY/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1640577600"
     },
     "14": {
       "title": "Chapter 15",
@@ -129,7 +130,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/QNf1HG7/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1644206400"
     },
     "15": {
       "title": "Chapter 16",
@@ -138,7 +139,7 @@
         "Sunshine Butterfly":
         "/proxy/api/imgur/chapter/zVpQaFO/"
       },
-      "last_updated": "1645651688"
+      "last_updated": "1645416000"
     },
     "16": {
       "title": "Chapter 17",
@@ -148,6 +149,15 @@
         "/proxy/api/imgur/chapter/MQ6f6mg/"
       },
       "last_updated": "1646091644"
+    },
+    "17": {
+      "title": "Chapter 18",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/scXA4Cz/"
+      },
+      "last_updated": "1648400012"
     }
   }
 }
