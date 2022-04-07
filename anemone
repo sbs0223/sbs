@@ -1,0 +1,18 @@
+{
+  "title": "Anemone Theater",
+  "description": "Seongho, who is under extreme stress because of his conservative father, suffers from chronic headaches.\nTo get rid of the headache somehow, he takes the whole pill and accidentally kisses a man.\nAnd feel like that severe headache is fading away... Is it because of the drug? Or because of the kiss?",
+  "artist": "Greensea",
+  "author": "Zoy",
+  "cover": "https://cdn.discordapp.com/attachments/950772235843559424/961672221569482832/unknown.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/SnGKvLE/"
+      },
+      "last_updated": "1649354682"
+    }
+  }
+}
