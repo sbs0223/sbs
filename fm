@@ -139,6 +139,15 @@
         "/proxy/api/imgur/chapter/rtKDHHq/"
       },
       "last_updated": "1654872213"
+    },
+    "16": {
+      "title": "Chapter 16",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly":
+        "/proxy/api/imgur/chapter/ECz6AyJ/"
+      },
+      "last_updated": "1655005048"
     }
   }
 }
