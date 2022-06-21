@@ -103,6 +103,51 @@
         "/proxy/api/imgur/chapter/AzU1n78/"
       },
       "last_updated": "1649787390"
+    },
+    "12": {
+      "title": "File.03 (1)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/BmWEPez/"
+      },
+      "last_updated": "1655824091"
+    },
+    "13": {
+      "title": "File.03 (2)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/NXJwBtg/"
+      },
+      "last_updated": "1655824126"
+    },
+    "14": {
+      "title": "File.03 (3)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/aaJz7NX/"
+      },
+      "last_updated": "1655824130"
+    },
+    "15": {
+      "title": "File.03 (4)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/u5sKifS/"
+      },
+      "last_updated": "1655824135"
+    },
+    "16": {
+      "title": "File.03 (5)",
+      "volume": "1",
+      "groups": {
+        "Sunshine Butterfly & Rainbow Bar":
+        "/proxy/api/imgur/chapter/NoFKJQg/"
+      },
+      "last_updated": "1655824142"
     }
   }
 }
